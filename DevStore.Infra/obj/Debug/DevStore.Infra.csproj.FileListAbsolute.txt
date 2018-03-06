@@ -1,0 +1,13 @@
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+C:\Users\nikson.barth\source\repos\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
